@@ -1,0 +1,30 @@
+colors:
+  # Primary colors
+  primary:
+    background: "0x1c1e26"
+    foreground: "0xe0e0e0"
+
+  # Normal colors
+  normal:
+    black: "0x16161c"
+    red: "0xdb0a0a"
+    green: "0x2ac304"
+    yellow: "0xc8b104"
+    blue: "0x04a7c8"
+    magenta: "0xee64ac"
+    cyan: "0x59e1e3"
+    white: "0xd5d8da"
+
+  # Bright colors
+  bright:
+    black: "0x5b5858"
+    red: "0xec6a88"
+    green: "0x3fdaa4"
+    yellow: "0xfbc3a7"
+    blue: "0x3fc4de"
+    magenta: "0xf075b5"
+    cyan: "0x6be4e6"
+    white: "0xd5d8da"
+
+key_bindings:
+  - { key: T, mods: Control|Super, action: SpawnNewInstance }
